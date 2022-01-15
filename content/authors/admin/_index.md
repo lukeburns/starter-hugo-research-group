@@ -1,7 +1,7 @@
 ---
 title: Lucas Burns
 role: Graduate Research Assistant
-avatar_filename: https://www.justindressel.com/img/lukeburns.png
+avatar_filename: lukeburns.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -17,7 +17,7 @@ social:
     link: https://scholar.google.com/citations?user=i6t0OQYAAAAJ&hl=en
   - display:
       header: false
-    icon_pack: ai
+    icon_pack: fab
     link: https://github.com/lukeburns
     icon: github
 organizations:
