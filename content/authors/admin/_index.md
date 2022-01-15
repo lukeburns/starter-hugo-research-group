@@ -1,7 +1,7 @@
 ---
 title: Lucas Burns
 role: Graduate Research Assistant
-avatar_filename: assets/media/lukeburns.png
+avatar_filename: lukeburns.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
